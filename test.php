@@ -2,8 +2,8 @@
 
 /**
  * @file test.php
- * @author Leandor Miño <leandromq@hotmail.com>
- * Tested with UwAmp https://www.uwamp.com/en/ - PHP v7.0.3  - Apache v2.4.18 - Windows 10
+ * @author Leandor MiÃ±o <leandromq@hotmail.com>
+ * Tested with PHP v7.0.3 - Windows 10
  * Library used Porter 2 Stemmer for PHP: https://github.com/markfullmer/porter2
  */
 
